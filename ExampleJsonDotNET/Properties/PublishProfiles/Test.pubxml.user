@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ExampleJsonDotNET.dll">
+      <publishTime>04/02/2014 11:40:09</publishTime>
+    </File>
+    <File Include="bin/ExampleJsonDotNET.pdb">
+      <publishTime>04/02/2014 11:40:09</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/01/2014 08:29:10</publishTime>
+    </File>
+    <File Include="CSS/style.css">
+      <publishTime>04/02/2014 13:28:54</publishTime>
+    </File>
+    <File Include="ExampleJsonDotNET.aspx">
+      <publishTime>04/02/2014 13:31:15</publishTime>
+    </File>
+    <File Include="JavaScript/jquery-2.1.0.js">
+      <publishTime>04/01/2014 11:40:26</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/01/2014 08:29:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/02/2014 13:31:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+C:\dev\PLAYGROUND\ExampleJsonDotNET\ExampleJsonDotNET\bin\ExampleJsonDotNET.dll
+C:\dev\PLAYGROUND\ExampleJsonDotNET\ExampleJsonDotNET\bin\ExampleJsonDotNET.pdb
+C:\dev\PLAYGROUND\ExampleJsonDotNET\ExampleJsonDotNET\bin\Newtonsoft.Json.dll
+C:\dev\PLAYGROUND\ExampleJsonDotNET\ExampleJsonDotNET\bin\Newtonsoft.Json.xml
+C:\dev\PLAYGROUND\ExampleJsonDotNET\ExampleJsonDotNET\obj\Debug\ExampleJsonDotNET.dll
+C:\dev\PLAYGROUND\ExampleJsonDotNET\ExampleJsonDotNET\obj\Debug\ExampleJsonDotNET.pdb

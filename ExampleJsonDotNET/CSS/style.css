@@ -1,0 +1,21 @@
+﻿.infobox
+{
+    float:left
+}
+
+table
+{
+    height: 200px;
+    margin-right: 80px;
+}
+
+th
+{
+    height: 50px;
+}
+
+tfoot
+{
+    height: 50px;
+}
+
